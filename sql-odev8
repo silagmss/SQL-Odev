@@ -1,0 +1,7 @@
+create table employee(
+ id integer,
+ Name varchar(50),
+ birthday date,
+ email varchar(100));
+ 
+ 
